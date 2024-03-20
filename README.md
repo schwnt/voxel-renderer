@@ -24,7 +24,7 @@ A 3D renderer for Minecraft-style blocks utilizing Minecraft asset packs, with p
 - Parameters configuration in `resource.json`.
 
 ## Installation
-1. Open project using Visual Studio
+1. Open project with Visual Studio
 2. Build Project
 
 ## Images
