@@ -3,7 +3,7 @@
 ## OverView
 A 3D renderer for Minecraft-style blocks utilizing Minecraft asset packs, with procedural terrain generation.
 
-## Binary 
+## Binaries 
 [mega.nz](https://mega.nz/file/W2Ay3DpL#935EINVAJjogDVdk2SXuhUhvRreTFSi4QLDDWe-At7k)
 
 ## Details
